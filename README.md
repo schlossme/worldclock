@@ -1,5 +1,11 @@
 ## Wordclock
 
+![Picture](worldclock.jpeg)
+
+![Picturei animation ](worldclock.gif)
+
+
+
 Needed modules:
 https://github.com/rm-hull/luma.led_matrix
 
