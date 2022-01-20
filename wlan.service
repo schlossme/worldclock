@@ -1,0 +1,13 @@
+[Unit]
+Description=wait for WLAN and try to use WPS
+
+[Service]
+ExecStart=/home/pi/bin/wlan
+killMode=process
+TimeoutSec=5min
+
+[Install]
+WantedBy=multi-user.target
+
+
+

@@ -1,5 +1,9 @@
 ## Wordclock
 
+Needed modules:
+https://github.com/rm-hull/luma.led_matrix
+
+
 Matrix is 8x8
 
 ATWENTYD

@@ -1,0 +1,12 @@
+[Unit]
+Description=Wordclock
+After=multi-user.target
+
+[Service]
+Type=simple
+User=pi
+ExecStart=/usr/bin/python /home/pi/luma.led_matrix/mytest/clock.py
+
+[Install]
+WantedBy=multi-user.target
+
